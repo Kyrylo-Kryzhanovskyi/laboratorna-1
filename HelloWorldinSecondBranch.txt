@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+# Hello Worldgit log!
+=======
+# Hello Hell.............
+>>>>>>> master
